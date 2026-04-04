@@ -43,19 +43,21 @@ Système complet de réservation et d'administration.
 
 ---
 
-## 🚀 Veille Technologique : La Réalité Virtuelle (2024-2026)
-> Tout au long de l'annee, j'ai effectuer une veille informatique sur la realite.
+## 🥽 Veille Technologique : Réalité Virtuelle (2024-2026)
+> Suivi de l'évolution de l'informatique spatiale et de la VR/MR.
 
-### Synthèse des tendances
-* **Hardware :** Sortie du Meta Quest 4 (2026) et démocratisation du Micro-OLED.
-* **Logiciel :** Intégration massive de l'IA générative pour la création de mondes.
+### 📅 Chronologie Clé
+* **2024 :** L'arrivée de l'Apple Vision Pro et la démocratisation de la MR avec le Quest 3S.
+* **2025 :** Généralisation du rendu fovéal et de l'IA générative 3D.
+* **2026 :** Annonces autour du Meta Quest 4 et maturité des usages industriels.
 
-### Sources de la veille
-1. [Apple Vision Pro : Le futur de l'interaction](https://...)
-2. [Meta Quest 4 Roadmap](https://...)
+### 🔗 Articles & Sources Majeures
+* [L'Apple Vision Pro et l'informatique spatiale](https://jeux.developpez.com/actu/372183/Apple-Vision-Pro-un-an-apres-son-lancement/)
+* [Feuille de route Meta 2026](https://www.uploadvr.com/meta-cto-seems-to-confirm-quest-4-still-on-roadmap/)
+* [Impact de l'IA sur la VR (2025)](https://innowise.com/fr/blog/ar-vr-trends/)
 
 ---
 
 ## 📫 Me contacter
-* **LinkedIn** : [Ton lien ici]
-* **Localisation** : Poitiers / Le Havre
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
+[![CV](https://img.shields.io/badge/Mon%20CV-PDF-red?style=for-the-badge)](./chemin-vers-ton-cv.pdf)

@@ -11,27 +11,32 @@
 ## 🏗️ Projets Phares
 
 ### 📱 Application Mobile de Relevé de Compte
-Développement d'une solution de gestion budgétaire orientée "Data-Driven".
-* **Data Processing** : Traitement et catégorisation automatique des dépenses.
-* **Visualisation** : Création de dashboards dynamiques pour le pilotage budgétaire.
-* **Objectif** : Transformer des flux de données bruts en indicateurs exploitables.
+**Application mobile en Dart permettant de suivre les dépenses, les catégoriser et les visualiser**.
+* Développement d’une application mobile dédiée au suivi des dépenses.
+* Traitement et catégorisation des données afin d’analyser les habitudes de dépense.
+* Visualisation des données via des graphiques pour faciliter l’interprétation et le pilotage budgétaire.
+* Mise en place d’une logique orientée data pour transformer les données brutes en indicateurs exploitables.
 
 ### 🏛️ Application de Gestion de Salle de Fête
-Système complet de réservation et d'administration.
-* **Sécurité** : Mise en place d'une authentification avec hachage des identifiants.
-* **Exploitation de données** : Tableaux de bord de visualisation pour l'administration.
-* **Stack** : Développement backend et gestion de base de données relationnelle.
+** Application en C# permettant de reserver une salle de fête**.
+* Conception d’une interface utilisateur avec système d’authentification permettant la sauvegarde et le suivi des actions.
+* Mise en place d’une base de données avec stockage sécurisé des identifiants (hachage) et exploitation des données via des tableaux de visualisation.
+* Développement d’une interface administrateur dédiée à la gestion des réservations (consultation, modification, suppression).
 
 ---
 
 ## 💼 Expériences Professionnelles & Stages
 
 ### 🏢 Mairie de Fécamp | Stagiaire Technicien Informatique
-*Janvier 2026 – Février 2026*
+* 5 Janvier 2026 – 13 Février 2026*
 * **Infrastructure** : Déploiement d'hyperviseurs (**Proxmox**) et gestion de VM (Linux/Windows Server).
 * **Sécurité & Réseau** : Configuration de pare-feu **pfSense** et gestion de parc via GLPI.
-* **Support** : Diagnostic et résolution d'incidents critiques sur site et à distance.
+* **Support** : Diagnostic et résolution d'incidents sur site et à distance.
 
+### 🏢 Mairie de Fécamp | Stagiaire Technicien Informatique
+*12 Mai 2025 - 13 Juin 2025*
+* **Développement web** : Apprentissage HTML, PHP, CSS.
+*  **Réseau** : Apprentissage des termes réseaux et 1er utilisation de Linux.  
 ---
 
 ## 🎓 Parcours & Formations
@@ -39,7 +44,7 @@ Système complet de réservation et d'administration.
 * **2026 - 2029** : Cycle Ingénieur Généraliste (Spé. IA & Big Data) – **ESIGELEC Poitiers**
     * *Focus : Machine Learning, Deep Learning, Cloud Computing, NoSQL.*
 * **2024 - 2026** : BTS Services Informatiques aux Organisations (SIO) – **St-Jo Sup Le Havre**
-    * *Focus : Développement logiciel et web (C#, Python, Java).*
+    * *Focus : Développement de base de donnée, Développement web, P.O.O (C#, Python, Java) *
 
 ---
 

@@ -59,5 +59,5 @@ Système complet de réservation et d'administration.
 ---
 
 ## 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ton-profil)
-[![CV](https://img.shields.io/badge/Mon%20CV-PDF-red?style=for-the-badge)](./chemin-vers-ton-cv.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ton-profil](https://www.linkedin.com/in/kilian-marais-47b796389/?skipRedirect=true))
+[![CV](https://img.shields.io/badge/Mon%20CV-PDF-red?style=for-the-badge)]((https://canva.link/jnyfcwd799d05ta))

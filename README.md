@@ -18,7 +18,7 @@
 * Mise en place d’une logique orientée data pour transformer les données brutes en indicateurs exploitables.
 
 ### 🏛️ Application de Gestion de Salle de Fête
-**Application en C# permettant de reserver une salle de fête**.
+**Application en C permettant de reserver une salle de fête**.
 * Conception d’une interface utilisateur avec système d’authentification permettant la sauvegarde et le suivi des actions.
 * Mise en place d’une base de données avec stockage sécurisé des identifiants (hachage) et exploitation des données via des tableaux de visualisation.
 * Développement d’une interface administrateur dédiée à la gestion des réservations (consultation, modification, suppression).
@@ -36,7 +36,7 @@
 ### 🏢 Mairie de Fécamp | Stagiaire Technicien Informatique
 *12 Mai 2025 - 13 Juin 2025*
 * **Développement web** : Apprentissage HTML, PHP, CSS.
-*  **Réseau** : Apprentissage des termes réseaux et 1er utilisation de Linux.  
+* **Réseau** : Apprentissage des termes réseaux et 1er utilisation de Linux.  
 ---
 
 ## 🎓 Parcours & Formations

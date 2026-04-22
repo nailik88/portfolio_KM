@@ -2,9 +2,9 @@
 ### 🚀 Futur Ingénieur IA & Big Data à l'ESIGELEC de Poitiers
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Statut-Admis%20ESIGELEC-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-IA&Big-Data%20%2F%20ML-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Recherche-Alternance%20(36%20mois)-et-obtention-du-BTS-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Statut-Admis%20ESIGELEC-brightgreen?style=for-the-badge" alt="Statut Admis" />
+  <img src="https://img.shields.io/badge/Focus-IA%20%26%20Big%20Data-blue?style=for-the-badge" alt="Focus IA" />
+  <img src="https://img.shields.io/badge/Recherche-Alternance%20(36%20mois)-orange?style=for-the-badge" alt="Alternance" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 Étudiant en **BTS SIO**, j'intègre le cycle ingénieur de l'**ESIGELEC** à la rentrée 2026. Passionné par la valorisation de la donnée, je cherche à transformer des flux bruts en décisions intelligentes.
 
 * 🔍 **Objectif** : Décrocher une alternance de 3 ans pour devenir expert en **Machine Learning**.
-* 🏃 **Hors code** : Passionné de course à pied, de jeux vidéo et de la réalité virtuelle.
+* 🏃 **Hors code** : Passionné de course à pied, de jeux vidéo et de réalité virtuelle.
 
 ---
 
@@ -33,57 +33,39 @@
 * **Visualisation** : Interprétation facilité avec la mise en place de graphique.
 
 ### 🏛️ Gestion de Salle de fête (En C#)
-* Conception d’une interface utilisateur avec système d’authentification permettant
-la sauvegarde et le suivi des actions
-*Mise en place d’une base de données avec stockage sécurisé des identifiants
-(hachage) et exploitation des données via des tableaux de visualisation
-*Développement d’une interface administrateur dédiée à la gestion des
-réservations (consultation, modification, suppression)
+* **Interface** : Système d'authentification avec hachage sécurisé.
+* **Données** : Base de données relationnelle et visualisation via tableaux.
+* **Admin** : Dashboard complet de gestion (CRUD) des réservations.
 
 ---
 
 ## 🥽 Veille Technologique : Réalité Virtuelle
-> Suivi de l'informatique spatiale (2024-2026).
+> Suivi prospectif de l'informatique spatiale (2024-2026).
 
 <details>
-<summary><b>📂 Voir les 15 sources majeures de ma veille</b></summary>
+<summary><b>📂 Cliquez ici pour voir les 15 sources de ma veille</b></summary>
+<br />
 
 #### 🤖 IA & Intelligence Visuelle
-
 * [L'IA générative 3D : Créer des mondes par la donnée](https://sovol.eu/fr/blogs/new/ai-transforming-3d-printing-2026-automation-quality-workflows)
-* 
 * [Edge AI : Pourquoi le calcul local change la donne en XR](https://www.qualcomm.com/news/onq/2024/01/how-on-device-ai-is-powering-the-next-generation-of-xr)
-* 
 * [Convergence LLM et Interfaces Spatiales](https://www.eurekalert.org/news-releases/1113796)
-* 
 * [L'IA au service de l'optimisation graphique](https://visual-intelligence.no/news/trends-in-visual-intelligence-2026)
-* 
 * [Deep Learning et Eye-Tracking](https://dl.acm.org/doi/10.1145/3386569.3392485)
 
 #### 🏗️ Hardware & Écosystème
-
 * [Meta Quest 4 : Sortie accélérée en 2026](https://lnt.ma/meta-quest-4-rumors-point-to-accelerated-release-amid-apple-pressure/)
-* 
 * [Apple Vision "Air" : La stratégie 2025](https://www.macworld.com/article/3117710/apple-smart-glasses-release-date-specs-features-price.html)
-* 
 * [Roadmap Meta : L'avenir de l'informatique spatiale](https://www.uploadvr.com/meta-cto-seems-to-confirm-quest-4-still-on-roadmap/)
-* 
 * [Le virage de 2026 : Lunettes AR quotidiennes](https://blog.shayaikehassan.com/the-augmented-reality-and-virtual-reality-industry-an-in-depth-overview-in-2026)
-* 
 * [Évolution des dalles micro-OLED 2026](https://pixeogroup.com/tendances-vr-2025/)
 
 #### 🏢 Enjeux Business & Data
-
 * [Marché de la XR 2026 : Analyse de croissance](https://www.futuremarketsinc.com/the-global-virtual-augmented-and-mixed-reality-market-2026-2036/)
-* 
 * [Impact VR sur la maintenance industrielle](https://www.fortunebusinessinsights.com/fr/industry-reports/virtual-reality-vr-in-manufacturing-industry-101714)
-* 
 * [Data médicale en immersion : Tendances 2025](https://www.medicaldevice-network.com/features/virtual-reality-healthcare-trends-2025/)
-* 
 * [Rapport Gartner : L'informatique spatiale (Top 10 Tech)](https://inventiv-it.fr/tendances-informatiques-2025/)
-* 
 * [Microsoft : IA et futur du travail immersif](https://news.microsoft.com/source/emea/2025/12/ce-que-lia-nous-reserve-en-2026-7-tendances-a-suivre/?lang=fr)
-
 
 </details>
 

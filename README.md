@@ -35,8 +35,8 @@
 ### 🏛️ Gestion de Salle de fête (En C#)
 
 <p align="center">
-  <img src="assets/ProjetSDF1.png" width="45%" alt="Interface de connexion" />
-  <img src="assets/ProjetSDF2.png" width="45%" alt="Dashboard Administration" />
+  <img src="asset/ProjetSDF1.png" width="45%" alt="Interface de connexion" />
+  <img src="asset/ProjetSDF2.png" width="45%" alt="Dashboard Administration" />
 </p>
 
 * **Interface** : Système d'authentification avec hachage sécurisé.

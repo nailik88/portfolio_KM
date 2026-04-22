@@ -42,10 +42,10 @@
 ## 🥽 Veille Technologique : Réalité Virtuelle
 > Suivi prospectif de l'informatique spatiale (2024-2026).
 
-<summary><b>📂 Cliquez ici pour voir les 15 sources de ma veille</b></summary>
 <br />
 
 #### 🤖 IA & Intelligence Visuelle
+
 * [L'IA générative 3D : Créer des mondes par la donnée](https://sovol.eu/fr/blogs/new/ai-transforming-3d-printing-2026-automation-quality-workflows)
 * [Edge AI : Pourquoi le calcul local change la donne en XR](https://www.qualcomm.com/news/onq/2024/01/how-on-device-ai-is-powering-the-next-generation-of-xr)
 * [Convergence LLM et Interfaces Spatiales](https://www.eurekalert.org/news-releases/1113796)
@@ -53,6 +53,7 @@
 * [Deep Learning et Eye-Tracking](https://dl.acm.org/doi/10.1145/3386569.3392485)
 
 #### 🏗️ Hardware & Écosystème
+
 * [Meta Quest 4 : Sortie accélérée en 2026](https://lnt.ma/meta-quest-4-rumors-point-to-accelerated-release-amid-apple-pressure/)
 * [Apple Vision "Air" : La stratégie 2025](https://www.macworld.com/article/3117710/apple-smart-glasses-release-date-specs-features-price.html)
 * [Roadmap Meta : L'avenir de l'informatique spatiale](https://www.uploadvr.com/meta-cto-seems-to-confirm-quest-4-still-on-roadmap/)
@@ -60,6 +61,7 @@
 * [Évolution des dalles micro-OLED 2026](https://pixeogroup.com/tendances-vr-2025/)
 
 #### 🏢 Enjeux Business & Data
+
 * [Marché de la XR 2026 : Analyse de croissance](https://www.futuremarketsinc.com/the-global-virtual-augmented-and-mixed-reality-market-2026-2036/)
 * [Impact VR sur la maintenance industrielle](https://www.fortunebusinessinsights.com/fr/industry-reports/virtual-reality-vr-in-manufacturing-industry-101714)
 * [Data médicale en immersion : Tendances 2025](https://www.medicaldevice-network.com/features/virtual-reality-healthcare-trends-2025/)

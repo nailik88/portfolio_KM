@@ -42,7 +42,6 @@
 ## 🥽 Veille Technologique : Réalité Virtuelle
 > Suivi prospectif de l'informatique spatiale (2024-2026).
 
-<details>
 <summary><b>📂 Cliquez ici pour voir les 15 sources de ma veille</b></summary>
 <br />
 
@@ -66,8 +65,6 @@
 * [Data médicale en immersion : Tendances 2025](https://www.medicaldevice-network.com/features/virtual-reality-healthcare-trends-2025/)
 * [Rapport Gartner : L'informatique spatiale (Top 10 Tech)](https://inventiv-it.fr/tendances-informatiques-2025/)
 * [Microsoft : IA et futur du travail immersif](https://news.microsoft.com/source/emea/2025/12/ce-que-lia-nous-reserve-en-2026-7-tendances-a-suivre/?lang=fr)
-
-</details>
 
 ---
 

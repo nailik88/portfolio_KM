@@ -1,10 +1,10 @@
-# 👋 Salut, moi c'est Kilian MARAIS !
-### 🚀 Futur Ingénieur IA & Big Data @ ESIGELEC Poitiers
+# 👋 Bonjour, je m'appelle Kilian MARAIS.
+### 🚀 Futur Ingénieur IA & Big Data à l'ESIGELEC de Poitiers
 
 <p align="center">
   <img src="https://img.shields.io/badge/Statut-Admis%20ESIGELEC-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%2F%20ML-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Recherche-Alternance%20(36%20mois)-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-IA&Big-Data%20%2F%20ML-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recherche-Alternance%20(36%20mois)-et-obtention-du-BTS-orange?style=for-the-badge" />
 </p>
 
 ---
@@ -13,7 +13,7 @@
 Étudiant en **BTS SIO**, j'intègre le cycle ingénieur de l'**ESIGELEC** à la rentrée 2026. Passionné par la valorisation de la donnée, je cherche à transformer des flux bruts en décisions intelligentes.
 
 * 🔍 **Objectif** : Décrocher une alternance de 3 ans pour devenir expert en **Machine Learning**.
-* 🏃 **Hors code** : Passionné de course à pied et d'informatique spatiale (VR/MR).
+* 🏃 **Hors code** : Passionné de course à pied, de jeux vidéo et de la réalité virtuelle.
 
 ---
 
@@ -21,30 +21,55 @@
 | Domaine | Technologies |
 | :--- | :--- |
 | **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
-| **Data & DB** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Projet-ML](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Data & DB** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) |
 | **Infra/DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) |
 
 ---
 
 ## 🏗️ Projets Phares
 
-### 📊 Application Mobile de Relevé de Compte (Data-Driven)
-> *Transformation de données bancaires en indicateurs financiers via Dart.*
+### 📊 Application Mobile de Relevé de Compte (En Dart)
 * **Analyse** : Traitement et catégorisation automatisée des flux de dépenses.
-* **Visualisation** : Création de dashboards interactifs pour le pilotage budgétaire.
+* **Visualisation** : Interprétation facilité avec la mise en place de graphique.
 
-### 🏛️ Gestion de Salle (Architecture C#)
-> *Système complet de réservation avec focus sécurité.*
-* Stockage sécurisé des données (hachage) et interface d'administration CRUD.
+### 🏛️ Gestion de Salle de fête (En C#)
+* Conception d’une interface utilisateur avec système d’authentification permettant
+la sauvegarde et le suivi des actions
+*Mise en place d’une base de données avec stockage sécurisé des identifiants
+(hachage) et exploitation des données via des tableaux de visualisation
+*Développement d’une interface administrateur dédiée à la gestion des
+réservations (consultation, modification, suppression)
 
 ---
 
 ## 🥽 Veille Technologique : Réalité Virtuelle
-> Suivi prospectif de l'informatique spatiale (2024-2026).
+> Suivi de l'informatique spatiale (2024-2026).
 
-* **2026** : Maturité industrielle et annonces Meta Quest 4.
-* **2025** : Généralisation du rendu fovéal assisté par IA.
-* **Focus IA** : Intégration des LLM locaux (Edge AI) dans les casques XR.
+<details>
+<summary><b>📂 Voir les 15 sources majeures de ma veille</b></summary>
+
+#### 🤖 IA & Intelligence Visuelle
+* [L'IA générative 3D : Créer des mondes par la donnée](https://sovol.eu/fr/blogs/new/ai-transforming-3d-printing-2026-automation-quality-workflows)
+* [Edge AI : Pourquoi le calcul local change la donne en XR](https://www.qualcomm.com/news/onq/2024/01/how-on-device-ai-is-powering-the-next-generation-of-xr)
+* [Convergence LLM et Interfaces Spatiales](https://www.eurekalert.org/news-releases/1113796)
+* [L'IA au service de l'optimisation graphique](https://visual-intelligence.no/news/trends-in-visual-intelligence-2026)
+* [Deep Learning et Eye-Tracking](https://dl.acm.org/doi/10.1145/3386569.3392485)
+
+#### 🏗️ Hardware & Écosystème
+* [Meta Quest 4 : Sortie accélérée en 2026](https://lnt.ma/meta-quest-4-rumors-point-to-accelerated-release-amid-apple-pressure/)
+* [Apple Vision "Air" : La stratégie 2025](https://www.macworld.com/article/3117710/apple-smart-glasses-release-date-specs-features-price.html)
+* [Roadmap Meta : L'avenir de l'informatique spatiale](https://www.uploadvr.com/meta-cto-seems-to-confirm-quest-4-still-on-roadmap/)
+* [Le virage de 2026 : Lunettes AR quotidiennes](https://blog.shayaikehassan.com/the-augmented-reality-and-virtual-reality-industry-an-in-depth-overview-in-2026)
+* [Évolution des dalles micro-OLED 2026](https://pixeogroup.com/tendances-vr-2025/)
+
+#### 🏢 Enjeux Business & Data
+* [Marché de la XR 2026 : Analyse de croissance](https://www.futuremarketsinc.com/the-global-virtual-augmented-and-mixed-reality-market-2026-2036/)
+* [Impact VR sur la maintenance industrielle](https://www.fortunebusinessinsights.com/fr/industry-reports/virtual-reality-vr-in-manufacturing-industry-101714)
+* [Data médicale en immersion : Tendances 2025](https://www.medicaldevice-network.com/features/virtual-reality-healthcare-trends-2025/)
+* [Rapport Gartner : L'informatique spatiale (Top 10 Tech)](https://inventiv-it.fr/tendances-informatiques-2025/)
+* [Microsoft : IA et futur du travail immersif](https://news.microsoft.com/source/emea/2025/12/ce-que-lia-nous-reserve-en-2026-7-tendances-a-suivre/?lang=fr)
+
+</details>
 
 ---
 

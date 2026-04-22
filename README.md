@@ -48,6 +48,7 @@ réservations (consultation, modification, suppression)
 <details>
 <summary><b>📂 Voir les 15 sources majeures de ma veille</b></summary>
 
+
 #### 🤖 IA & Intelligence Visuelle
 * [L'IA générative 3D : Créer des mondes par la donnée](https://sovol.eu/fr/blogs/new/ai-transforming-3d-printing-2026-automation-quality-workflows)
 * [Edge AI : Pourquoi le calcul local change la donne en XR](https://www.qualcomm.com/news/onq/2024/01/how-on-device-ai-is-powering-the-next-generation-of-xr)
@@ -68,6 +69,7 @@ réservations (consultation, modification, suppression)
 * [Data médicale en immersion : Tendances 2025](https://www.medicaldevice-network.com/features/virtual-reality-healthcare-trends-2025/)
 * [Rapport Gartner : L'informatique spatiale (Top 10 Tech)](https://inventiv-it.fr/tendances-informatiques-2025/)
 * [Microsoft : IA et futur du travail immersif](https://news.microsoft.com/source/emea/2025/12/ce-que-lia-nous-reserve-en-2026-7-tendances-a-suivre/?lang=fr)
+
 
 </details>
 

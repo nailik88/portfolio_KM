@@ -33,6 +33,12 @@
 * **Visualisation** : Interprétation facilité avec la mise en place de graphique.
 
 ### 🏛️ Gestion de Salle de fête (En C#)
+
+<p align="center">
+  <img src="assets/ProjetSDF1.png" width="45%" alt="Interface de connexion" />
+  <img src="assets/ProjetSDF2.png" width="45%" alt="Dashboard Administration" />
+</p>
+
 * **Interface** : Système d'authentification avec hachage sécurisé.
 * **Données** : Base de données relationnelle et visualisation via tableaux.
 * **Admin** : Dashboard complet de gestion (CRUD) des réservations.

@@ -1,68 +1,55 @@
-# Kilian MARAIS - Porfolllio
-## 🚀 À propos de moi
-Étudiant en BTS SIO ( Service Informatique aux Organisations ), j'ai été admis a l'école d'ingénieur d'**ESIGELEC** à Poitiers afin de me spécialiser dans le domaine de la data à travers leur domainante **IA & Big Data**.
+# 👋 Salut, moi c'est Kilian MARAIS !
+### 🚀 Futur Ingénieur IA & Big Data @ ESIGELEC Poitiers
 
-* 🔍 **Objectif** : Avoir le BTS et Décrocher une alternance de 36 mois en **Data Science / Machine Learning**.
-* 🛠️ **Stack actuelle** : P.O.O, C#, MySQL, Dart, Pyhton et déploiement d'infrastructures de base (Proxmox/Linux).
-* 💡 **Intérêts** : Intelligence Artificielle, Realité Virtuelle et Course à pied.
+<p align="center">
+  <img src="https://img.shields.io/badge/Statut-Admis%20ESIGELEC-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Science%20%2F%20ML-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Recherche-Alternance%20(36%20mois)-orange?style=for-the-badge" />
+</p>
+
+---
+
+## 👤 À propos de moi
+Étudiant en **BTS SIO**, j'intègre le cycle ingénieur de l'**ESIGELEC** à la rentrée 2026. Passionné par la valorisation de la donnée, je cherche à transformer des flux bruts en décisions intelligentes.
+
+* 🔍 **Objectif** : Décrocher une alternance de 3 ans pour devenir expert en **Machine Learning**.
+* 🏃 **Hors code** : Passionné de course à pied et d'informatique spatiale (VR/MR).
+
+---
+
+## 🛠️ Ma Stack Technique
+| Domaine | Technologies |
+| :--- | :--- |
+| **Langages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
+| **Data & DB** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Projet-ML](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Infra/DevOps** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat-square&logo=proxmox&logoColor=white) |
 
 ---
 
 ## 🏗️ Projets Phares
 
-### 📱 Application Mobile de Relevé de Compte
-**Application mobile en Dart permettant de suivre les dépenses, les catégoriser et les visualiser**.
-* Développement d’une application mobile dédiée au suivi des dépenses.
-* Traitement et catégorisation des données afin d’analyser les habitudes de dépense.
-* Visualisation des données via des graphiques pour faciliter l’interprétation et le pilotage budgétaire.
-* Mise en place d’une logique orientée data pour transformer les données brutes en indicateurs exploitables.
+### 📊 Application Mobile de Relevé de Compte (Data-Driven)
+> *Transformation de données bancaires en indicateurs financiers via Dart.*
+* **Analyse** : Traitement et catégorisation automatisée des flux de dépenses.
+* **Visualisation** : Création de dashboards interactifs pour le pilotage budgétaire.
 
-### 🏛️ Application de Gestion de Salle de Fête
-**Application en C permettant de reserver une salle de fête**.
-* Conception d’une interface utilisateur avec système d’authentification permettant la sauvegarde et le suivi des actions.
-* Mise en place d’une base de données avec stockage sécurisé des identifiants (hachage) et exploitation des données via des tableaux de visualisation.
-* Développement d’une interface administrateur dédiée à la gestion des réservations (consultation, modification, suppression).
+### 🏛️ Gestion de Salle (Architecture C#)
+> *Système complet de réservation avec focus sécurité.*
+* Stockage sécurisé des données (hachage) et interface d'administration CRUD.
 
 ---
 
-## 💼 Expériences Professionnelles & Stages
+## 🥽 Veille Technologique : Réalité Virtuelle
+> Suivi prospectif de l'informatique spatiale (2024-2026).
 
-### 🏢 Mairie de Fécamp | Stagiaire Technicien Informatique
-* 5 Janvier 2026 – 13 Février 2026*
-* **Infrastructure** : Déploiement d'hyperviseurs (**Proxmox**) et gestion de VM (Linux/Windows Server).
-* **Sécurité & Réseau** : Configuration de pare-feu **pfSense** et gestion de parc via GLPI.
-* **Support** : Diagnostic et résolution d'incidents sur site et à distance.
-
-### 🏢 Mairie de Fécamp | Stagiaire Technicien Informatique
-*12 Mai 2025 - 13 Juin 2025*
-* **Développement web** : Apprentissage HTML, PHP, CSS.
-* **Réseau** : Apprentissage des termes réseaux et 1er utilisation de Linux.  
----
-
-## 🎓 Parcours & Formations
-
-* **2026 - 2029** : Cycle Ingénieur Généraliste (Spé. IA & Big Data) – **ESIGELEC Poitiers**
-    * *Focus : Machine Learning, Deep Learning, Cloud Computing, NoSQL.*
-* **2024 - 2026** : BTS Services Informatiques aux Organisations (SIO) – **St-Jo Sup Le Havre**
-    * *Focus : Développement de base de donnée, Développement web, P.O.O (C#, Python, Java) *
-
----
-
-## 🥽 Veille Technologique : Réalité Virtuelle (2024-2026)
-> Suivi de l'évolution de l'informatique spatiale et de la VR/MR.
-
-### 📅 Chronologie Clé
-* **2024 :** L'arrivée de l'Apple Vision Pro et la démocratisation de la MR avec le Quest 3S.
-* **2025 :** Généralisation du rendu fovéal et de l'IA générative 3D.
-* **2026 :** Annonces autour du Meta Quest 4 et maturité des usages industriels.
-
-### 🔗 Articles & Sources Majeures
-* [L'Apple Vision Pro et l'informatique spatiale](https://jeux.developpez.com/actu/372183/Apple-Vision-Pro-un-an-apres-son-lancement/)
-* [Feuille de route Meta 2026](https://www.uploadvr.com/meta-cto-seems-to-confirm-quest-4-still-on-roadmap/)
-* [Impact de l'IA sur la VR (2025)](https://innowise.com/fr/blog/ar-vr-trends/)
+* **2026** : Maturité industrielle et annonces Meta Quest 4.
+* **2025** : Généralisation du rendu fovéal assisté par IA.
+* **Focus IA** : Intégration des LLM locaux (Edge AI) dans les casques XR.
 
 ---
 
 ## 📫 Me contacter
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/ton-profil](www.linkedin.com/in/kilian-marais-47b796389))
-[![CV](https://img.shields.io/badge/Mon%20CV-PDF-red?style=for-the-badge)]((https://canva.link/jnyfcwd799d05ta))
+<p align="left">
+<a href="https://linkedin.com/in/kilian-marais-47b796389"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://canva.link/jnyfcwd799d05ta"><img src="https://img.shields.io/badge/Mon%20CV-PDF-red?style=for-the-badge" /></a>
+</p>

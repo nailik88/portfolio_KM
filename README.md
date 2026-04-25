@@ -10,9 +10,9 @@
 ---
 
 ## 👤 À propos de moi
-Étudiant en **BTS SIO**, j'intègre le cycle ingénieur de l'**ESIGELEC** à la rentrée 2026. Passionné par la valorisation de la donnée, je cherche à transformer des flux bruts en décisions intelligentes.
+Étudiant en **BTS SIO**, j'intègre le cycle ingénieur de l'**ESIGELEC** à la rentrée 2026. Passionné par la valorisation de la donnée, je cherche à transformer des flux de données bruts en des informations pertinentes.
 
-* 🔍 **Objectif** : Décrocher une alternance de 3 ans pour devenir expert en **Machine Learning**.
+* 🔍 **Objectif** : Avoir le BTS et décrocher une alternance de 3 ans dans la data.
 * 🏃 **Hors code** : Passionné de course à pied, de jeux vidéo et de réalité virtuelle.
 
 ---
@@ -29,6 +29,12 @@
 ## 🏗️ Projets Phares
 
 ### 📊 Application Mobile de Relevé de Compte (En Dart)
+
+<p align="center">
+  <img src="asset/ProjetAPP1.jpg" width="45%" alt="Interface de connexion" />
+  <img src="asset/ProjetAPP2.jpg" width="45%" alt="Dashboard Administration" />
+</p>
+
 * **Analyse** : Traitement et catégorisation automatisée des flux de dépenses.
 * **Visualisation** : Interprétation facilité avec la mise en place de graphique.
 
@@ -41,12 +47,12 @@
 
 * **Interface** : Système d'authentification avec hachage sécurisé.
 * **Données** : Base de données relationnelle et visualisation via tableaux.
-* **Admin** : Dashboard complet de gestion (CRUD) des réservations.
+* **Admin** : Tableaux de gestion avec toute les réservations.
 
 ---
 
 ## 🥽 Veille Technologique : Réalité Virtuelle
-> Suivi prospectif de l'informatique spatiale (2024-2026).
+> Suivi de la VR (2024-2026).
 
 <br />
 

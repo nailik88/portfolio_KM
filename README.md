@@ -32,7 +32,7 @@
 ### 📊 Application Mobile de Relevé de Compte (En Dart)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/dccce51b-3ff5-465b-aea4-ee2b07a5ad2" width="45%" alt="Image 1" />
+  <img src="https://github.com/user-attachments/assets/3b3449ba-95af-4645-bf31-4ad74c3555ea" width="45%" alt="Image 3" width="45%" alt="Image 1" />
   <img src="https://github.com/user-attachments/assets/0360ddf9-4249-491e-aff9-33264b1d8e8d" width="45%" alt="Image 2" />
 </p>
 
@@ -42,7 +42,7 @@
 ### 🏛️ Gestion de Salle de fête (En C#)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b3449ba-95af-4645-bf31-4ad74c3555ea" width="45%" alt="Image 3" />
+  <img src="https://github.com/user-attachments/assets/dccce51b-3ff5-465b-aea4-ee2b07a5ad2" />
   <img src="https://github.com/user-attachments/assets/51b48117-1eb7-4144-899a-197839608a7b" width="45%" alt="Image 4" />
 </p>
 

@@ -43,7 +43,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/dccce51b-3ff5-465b-aea4-ee2b07a5ad2c"  width="45%" alt="Image 3 "/>
-  <img src="https://github.com/user-attachments/assets/51b48117-1eb7-4144-899a-197839608a7b" width="50%" alt="Image 4" />
+  <img src="https://github.com/user-attachments/assets/51b48117-1eb7-4144-899a-197839608a7b" width="45%" alt="Image 4" />
 </p>
 
 * **Interface** : Système d'authentification avec hachage sécurisé.

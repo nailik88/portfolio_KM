@@ -32,8 +32,8 @@
 ### 📊 Application Mobile de Relevé de Compte (En Dart)
 
 <p align="center">
-  <img src="asset/ProjetAPP1.jpg" width="45%" alt="Image 1" />
-  <img src="asset/ProjetAPP2.jpg" width="45%" alt="Image 2" />
+  <img src="asset/img/ProjetAPP1.jpg" width="45%" alt="Image 1" />
+  <img src="asset/img/ProjetAPP2.jpg" width="45%" alt="Image 2" />
 </p>
 
 * **Analyse** : Traitement et catégorisation automatisée des flux de dépenses.

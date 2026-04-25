@@ -32,8 +32,8 @@
 ### 📊 Application Mobile de Relevé de Compte (En Dart)
 
 <p align="center">
-  <img src="asset/ProjetAPP1.jpg" width="45%" alt="Interface de connexion" />
-  <img src="asset/ProjetAPP2.jpg" width="45%" alt="Dashboard Administration" />
+  <img src="asset/ProjetAPP1.jpg" width="45%" alt="Image 1" />
+  <img src="asset/ProjetAPP2.jpg" width="45%" alt="Image 2" />
 </p>
 
 * **Analyse** : Traitement et catégorisation automatisée des flux de dépenses.
@@ -42,8 +42,8 @@
 ### 🏛️ Gestion de Salle de fête (En C#)
 
 <p align="center">
-  <img src="asset/ProjetSDF1.png" width="45%" alt="Interface de connexion" />
-  <img src="asset/ProjetSDF2.png" width="45%" alt="Dashboard Administration" />
+  <img src="asset/ProjetSDF1.png" width="45%" alt="Image 3" />
+  <img src="asset/ProjetSDF2.png" width="45%" alt="Image 4" />
 </p>
 
 * **Interface** : Système d'authentification avec hachage sécurisé.

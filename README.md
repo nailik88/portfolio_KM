@@ -37,7 +37,7 @@
 </p>
 
 * **Analyse** : Traitement et catégorisation automatisée des flux de dépenses.
-* **Visualisation** : Interprétation facilité avec la mise en place de graphique.
+* **Visualisation** : Interprétation facilitée avec la mise en place de graphique.
 
 ### 🏛️ Gestion de Salle de fête (En C#)
 
@@ -48,7 +48,15 @@
 
 * **Interface** : Système d'authentification avec hachage sécurisé.
 * **Données** : Base de données relationnelle et visualisation via tableaux.
-* **Admin** : Tableaux de gestion avec toute les réservations.
+* **Admin** : Tableaux de gestion avec toutes les réservations.
+
+---
+
+## 📂 Expériences
+| Période | Document | Lien |
+| :--- | :--- | :--- |
+| **Stage 1** | Rapport de stage n°1 | [![Rapport](https://img.shields.io/badge/Rapport-PDF-red?style=flat-square)](https://canva.link/tmgq2naxxrtvt3n) |
+| **Stage 2** | Rapport de stage n°2 | [![Rapport](https://img.shields.io/badge/Rapport-PDF-red?style=flat-square)](https://canva.link/0cy1ixs4wgth5bk) |
 
 ---
 

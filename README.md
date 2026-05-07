@@ -55,14 +55,15 @@
 ### 💼 Expériences en entreprise
 | Période | Document | Description |
 | :--- | :--- | :--- |
-| **Mai - Juin 2025** | [**Rapport n°1**](https://canva.link/tmgq2naxxrtvt3n) | Stage observatoire : création de site internet. |
-| **Janvier - Février 2026** | [**Rapport n°2**](https://canva.link/0cy1ixs4wgth5bk) | Infra réseau & optimisation de bases de données. |
+| Mai - Juin 2025 | [**Rapport n°1**](https://canva.link/tmgq2naxxrtvt3n) | Stage observatoire : création de site internet. |
+| Janvier - Février 2026 | [**Rapport n°2**](https://canva.link/0cy1ixs4wgth5bk) | Infra réseau & optimisation de bases de données. |
 
 ### 🎓 Certifications & Sécurité
 | Certification | Lien vers l'attestation |
 | :--- | :--- |
-| **🛡️ RGPD** | [Consulter l'attestation](https://github.com/user-attachments/files/27477786/AttestationRGPD.csv) |
-| **🔒 MOOC ANSSI** | [Consulter l'attestation](https://github.com/user-attachments/files/27477787/Attestation.MOOC.pdf) |
+| 🛡️ RGPD | [Consulter l'attestation](https://github.com/user-attachments/files/27477786/AttestationRGPD.csv) |
+| 🔒 MOOC ANSSI | [Consulter l'attestation](https://github.com/user-attachments/files/27477787/Attestation.MOOC.pdf) |
+
 ---
 
 ## 🥽 Veille Technologique : Réalité Virtuelle

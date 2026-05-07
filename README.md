@@ -52,18 +52,17 @@
 
 ---
 
-## 📂 Expériences
-| Période | Document | Lien | Description |
-| :--- | :--- | :--- | :--- |
-| **12 Mai au 13 Juin 2025** | Rapport de stage n°1 | [![Rapport](https://img.shields.io/badge/Rapport-PDF-red?style=flat-square)](https://canva.link/tmgq2naxxrtvt3n) | Stage observatoire avec création de site internet |
-| **5 Janvier au 13 Février 2026** | Rapport de stage n°2 | [![Rapport](https://img.shields.io/badge/Rapport-PDF-red?style=flat-square)](https://canva.link/0cy1ixs4wgth5bk) | Création d'une infrastructure réseau de base et approfondissement des bases de donnéees |
+### 💼 Expériences en entreprise
+| Période | Document | Description |
+| :--- | :--- | :--- |
+| **Mai - Juin 2025** | [**Rapport n°1**](https://canva.link/tmgq2naxxrtvt3n) | Stage observatoire : création de site internet. |
+| **Janvier - Février 2026** | [**Rapport n°2**](https://canva.link/0cy1ixs4wgth5bk) | Infra réseau & optimisation de bases de données. |
 
-## Certification
-| Document | Lien |
+### 🎓 Certifications & Sécurité
+| Certification | Lien vers l'attestation |
 | :--- | :--- |
-| **RGPD** | [![AttestationRGPD.csv](https://github.com/user-attachments/files/27477786/AttestationRGPD.csv)] |
-| **MOOC ANSSI** | [![Attestation MOOC.pdf](https://github.com/user-attachments/files/27477787/Attestation.MOOC.pdf)] |
-
+| **🛡️ RGPD** | [Consulter l'attestation](https://github.com/user-attachments/files/27477786/AttestationRGPD.csv) |
+| **🔒 MOOC ANSSI** | [Consulter l'attestation](https://github.com/user-attachments/files/27477787/Attestation.MOOC.pdf) |
 ---
 
 ## 🥽 Veille Technologique : Réalité Virtuelle
@@ -73,27 +72,27 @@
 
 #### 🤖 IA & Intelligence Visuelle
 
-* [L'IA générative 3D : Créer des mondes par la donnée](https://sovol.eu/fr/blogs/new/ai-transforming-3d-printing-2026-automation-quality-workflows)
-* [Edge AI : Pourquoi le calcul local change la donne en XR](https://www.qualcomm.com/news/onq/2024/01/how-on-device-ai-is-powering-the-next-generation-of-xr)
-* [Convergence LLM et Interfaces Spatiales](https://www.eurekalert.org/news-releases/1113796)
-* [L'IA au service de l'optimisation graphique](https://visual-intelligence.no/news/trends-in-visual-intelligence-2026)
-* [Deep Learning et Eye-Tracking](https://dl.acm.org/doi/10.1145/3386569.3392485)
+* Mars 2026 : [L'IA générative 3D : Créer des mondes par la donnée](https://sovol.eu/fr/blogs/new/ai-transforming-3d-printing-2026-automation-quality-workflows)
+* Janvier 2024 : [Edge AI : Pourquoi le calcul local change la donne en XR](https://www.qualcomm.com/news/onq/2024/01/how-on-device-ai-is-powering-the-next-generation-of-xr)
+* Janvier 2026 : [Convergence LLM et Interfaces Spatiales](https://www.eurekalert.org/news-releases/1113796)
+* Janvier 2026 : [L'IA au service de l'optimisation graphique](https://visual-intelligence.no/news/trends-in-visual-intelligence-2026)
+* 2024 : [Deep Learning et Eye-Tracking](https://dl.acm.org/doi/10.1145/3386569.3392485)
 
 #### 🏗️ Hardware & Écosystème
 
-* [Meta Quest 4 : Sortie accélérée en 2026](https://lnt.ma/meta-quest-4-rumors-point-to-accelerated-release-amid-apple-pressure/)
-* [Apple Vision "Air" : La stratégie 2025](https://www.macworld.com/article/3117710/apple-smart-glasses-release-date-specs-features-price.html)
-* [Roadmap Meta : L'avenir de l'informatique spatiale](https://www.uploadvr.com/meta-cto-seems-to-confirm-quest-4-still-on-roadmap/)
-* [Le virage de 2026 : Lunettes AR quotidiennes](https://blog.shayaikehassan.com/the-augmented-reality-and-virtual-reality-industry-an-in-depth-overview-in-2026)
-* [Évolution des dalles micro-OLED 2026](https://pixeogroup.com/tendances-vr-2025/)
+* Février 2026 : [Meta Quest 4 : Sortie accélérée en 2026](https://lnt.ma/meta-quest-4-rumors-point-to-accelerated-release-amid-apple-pressure/)
+* Octobre 2025 : [Apple Vision "Air" : La stratégie 2025](https://www.macworld.com/article/3117710/apple-smart-glasses-release-date-specs-features-price.html)
+* Janvier 2026 : [Roadmap Meta : L'avenir de l'informatique spatiale](https://www.uploadvr.com/meta-cto-seems-to-confirm-quest-4-still-on-roadmap/)
+* Mai 2025 : [Le virage de 2026 : Lunettes AR quotidiennes](https://blog.shayaikehassan.com/the-augmented-reality-and-virtual-reality-industry-an-in-depth-overview-in-2026)
+* Août 2025 : [Évolution des dalles micro-OLED 2026](https://pixeogroup.com/tendances-vr-2025/)
 
 #### 🏢 Enjeux Business & Data
 
-* [Marché de la XR 2026 : Analyse de croissance](https://www.futuremarketsinc.com/the-global-virtual-augmented-and-mixed-reality-market-2026-2036/)
-* [Impact VR sur la maintenance industrielle](https://www.fortunebusinessinsights.com/fr/industry-reports/virtual-reality-vr-in-manufacturing-industry-101714)
-* [Data médicale en immersion : Tendances 2025](https://www.medicaldevice-network.com/features/virtual-reality-healthcare-trends-2025/)
-* [Rapport Gartner : L'informatique spatiale (Top 10 Tech)](https://inventiv-it.fr/tendances-informatiques-2025/)
-* [Microsoft : IA et futur du travail immersif](https://news.microsoft.com/source/emea/2025/12/ce-que-lia-nous-reserve-en-2026-7-tendances-a-suivre/?lang=fr)
+* Avril 2026 : [Marché de la XR 2026 : Analyse de croissance](https://www.futuremarketsinc.com/the-global-virtual-augmented-and-mixed-reality-market-2026-2036/)
+* Mars 2026 : [Impact VR sur la maintenance industrielle](https://www.fortunebusinessinsights.com/fr/industry-reports/virtual-reality-vr-in-manufacturing-industry-101714)
+* Novembre 2025 : [Data médicale en immersion : Tendances 2025](https://www.medicaldevice-network.com/features/virtual-reality-healthcare-trends-2025/)
+* Décembre 2025 : [Rapport Gartner : L'informatique spatiale (Top 10 Tech)](https://inventiv-it.fr/tendances-informatiques-2025/)
+* Décembre 2025 : [Microsoft : IA et futur du travail immersif](https://news.microsoft.com/source/emea/2025/12/ce-que-lia-nous-reserve-en-2026-7-tendances-a-suivre/?lang=fr)
 
 ---
 

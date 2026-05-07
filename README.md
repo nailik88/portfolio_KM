@@ -53,16 +53,47 @@
 ---
 
 ### 💼 Expériences en entreprise
-| Période | Document | Description |
-| :--- | :--- | :--- |
-| Mai - Juin 2025 | [**Rapport n°1**](https://canva.link/tmgq2naxxrtvt3n) | Stage observatoire : création de site internet. |
-| Janvier - Février 2026 | [**Rapport n°2**](https://canva.link/0cy1ixs4wgth5bk) | Infra réseau & optimisation de bases de données. |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Période</th>
+      <th align="left">Document</th>
+      <th align="left">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Mai - Juin 2025</td>
+      <td><a href="https://canva.link/tmgq2naxxrtvt3n"><b>Rapport n°1</b></a></td>
+      <td>Stage observatoire : création de site internet.</td>
+    </tr>
+    <tr>
+      <td>Janv - Fév 2026</td>
+      <td><a href="https://canva.link/0cy1ixs4wgth5bk"><b>Rapport n°2</b></a></td>
+      <td>Infra réseau & optimisation de bases de données.</td>
+    </tr>
+  </tbody>
+</table>
 
 ### 🎓 Certifications & Sécurité
-| Certification | Lien vers l'attestation |
-| :--- | :--- |
-| 🛡️ RGPD | [Consulter l'attestation](https://github.com/user-attachments/files/27477786/AttestationRGPD.csv) |
-| 🔒 MOOC ANSSI | [Consulter l'attestation](https://github.com/user-attachments/files/27477787/Attestation.MOOC.pdf) |
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Certification</th>
+      <th align="left">Lien vers l'attestation</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🛡️ RGPD</td>
+      <td><a href="https://github.com/user-attachments/files/27477786/AttestationRGPD.csv">Consulter l'attestation</a></td>
+    </tr>
+    <tr>
+      <td>🔒 MOOC ANSSI</td>
+      <td><a href="https://github.com/user-attachments/files/27477787/Attestation.MOOC.pdf">Consulter l'attestation</a></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 

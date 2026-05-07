@@ -1,4 +1,4 @@
-# 👋 Bonjour, je m'appelle Kilian MARAIS.
+# Bonjour, je m'appelle Kilian MARAIS.
 ### 🚀 Futur Ingénieur IA & Big Data à l'ESIGELEC de Poitiers
 
 <p align="center">
@@ -53,10 +53,16 @@
 ---
 
 ## 📂 Expériences
-| Période | Document | Lien |
-| :--- | :--- | :--- |
-| **12 Mai au 13 Juin 2025** | Rapport de stage n°1 | [![Rapport](https://img.shields.io/badge/Rapport-PDF-red?style=flat-square)](https://canva.link/tmgq2naxxrtvt3n) |
-| **5 Janvier au 13 Février 2026** | Rapport de stage n°2 | [![Rapport](https://img.shields.io/badge/Rapport-PDF-red?style=flat-square)](https://canva.link/0cy1ixs4wgth5bk) |
+| Période | Document | Lien | Description |
+| :--- | :--- | :--- | :--- |
+| **12 Mai au 13 Juin 2025** | Rapport de stage n°1 | [![Rapport](https://img.shields.io/badge/Rapport-PDF-red?style=flat-square)](https://canva.link/tmgq2naxxrtvt3n) | Stage observatoire avec création de site internet |
+| **5 Janvier au 13 Février 2026** | Rapport de stage n°2 | [![Rapport](https://img.shields.io/badge/Rapport-PDF-red?style=flat-square)](https://canva.link/0cy1ixs4wgth5bk) | Création d'une infrastructure réseau de base et approfondissement des bases de donnéees |
+
+## Certification
+| Document | Lien |
+| :--- | :--- |
+| **RGPD** | [![AttestationRGPD.csv](https://github.com/user-attachments/files/27477786/AttestationRGPD.csv)] |
+| **MOOC ANSSI** | [![Attestation MOOC.pdf](https://github.com/user-attachments/files/27477787/Attestation.MOOC.pdf)] |
 
 ---
 

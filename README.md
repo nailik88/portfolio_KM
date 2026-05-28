@@ -141,10 +141,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/user-attachments/files/28358109/TableauxDeSynthese.pdf">Fiche de synthèse</td>
+      <td><a href="https://github.com/user-attachments/files/28358109/TableauxDeSynthese.pdf">Fiche de synthèse</a></td>
     </tr>
   </tbody>
-
+</table>
 ---
 
 ## 🥽 Veille Technologique : Réalité Virtuelle

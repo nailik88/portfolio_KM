@@ -104,13 +104,13 @@
       <td>Mai - Juin 2025</td>
       <td><a href="https://canva.link/tmgq2naxxrtvt3n"><b>Rapport n°1</b></a></td>
       <td>Stage observatoire : création de site internet.</td>
-      <td><a href="https://github.com/user-attachments/files/28355293/DOC210526-21052026131406.pdf"> </a></td>
+      <td><a href="https://github.com/user-attachments/files/28355293/DOC210526-21052026131406.pdf"> Attestation</a></td>
     </tr>
     <tr>
       <td>Janv - Fév 2026</td>
       <td><a href="https://canva.link/0cy1ixs4wgth5bk"><b>Rapport n°2</b></a></td>
       <td>Infra réseau & optimisation de bases de données.</td>
-      <td><a href="https://github.com/user-attachments/files/28355293/DOC210526-21052026131406.pdf"> </a></td>
+      <td><a href="https://github.com/user-attachments/files/28355293/DOC210526-21052026131406.pdf"> Attestation</a></td>
     </tr>
   </tbody>
 </table>

@@ -56,9 +56,6 @@
         <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense" />
       </td>
     </tr>
-    <tr>
-      <td>Tableau compétence</td>
-    </tr>
   </tbody>
 </table>
 
@@ -134,6 +131,19 @@
     </tr>
   </tbody>
 </table>
+
+### Réalisation
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left">Lien fiche de synthèse</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="">Fiche de synthèse</td>
+    </tr>
+  </tbody>
 
 ---
 

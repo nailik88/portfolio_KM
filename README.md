@@ -56,6 +56,9 @@
         <img src="https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white" alt="pfSense" />
       </td>
     </tr>
+    <tr>
+      <td>Tableau compétence</td>
+    </tr>
   </tbody>
 </table>
 
@@ -105,6 +108,10 @@
       <td>Janv - Fév 2026</td>
       <td><a href="https://canva.link/0cy1ixs4wgth5bk"><b>Rapport n°2</b></a></td>
       <td>Infra réseau & optimisation de bases de données.</td>
+    </tr>
+    <tr>
+      <td> Attestations de stage</td>
+      <td><a href="https://github.com/user-attachments/files/28355293/DOC210526-21052026131406.pdf"> </a>td>
     </tr>
   </tbody>
 </table>

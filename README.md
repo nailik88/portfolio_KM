@@ -152,13 +152,13 @@
 
 <br />
 
-#### 🤖 IA & Intelligence Visuelle
+#### 🛠️ Tendances Technologiques & Matériel
 
-* Mars 2026 : [L'IA générative 3D : Créer des mondes par la donnée](https://sovol.eu/fr/blogs/new/ai-transforming-3d-printing-2026-automation-quality-workflows)
-* Janvier 2024 : [Edge AI : Pourquoi le calcul local change la donne en XR](https://www.qualcomm.com/news/onq/2024/01/how-on-device-ai-is-powering-the-next-generation-of-xr)
-* Janvier 2026 : [Convergence LLM et Interfaces Spatiales](https://www.eurekalert.org/news-releases/1113796)
-* Janvier 2026 : [L'IA au service de l'optimisation graphique](https://visual-intelligence.no/news/trends-in-visual-intelligence-2026)
-* 2024 : [Deep Learning et Eye-Tracking](https://dl.acm.org/doi/10.1145/3386569.3392485)
+* Février 2026 : [Tendances AR/VR 2026 : Vers l'informatique spatiale hyperréaliste](https://innowise.com/fr/blog/ar-vr-trends/#:~:text=En%202026%2C%20l'informatique%20spatiale,r%C3%A9el%20et%20interagissent%20avec%20lui.)
+* Début 2026 : [Rapport mondial sur le matériel XR : La domination des casques autonomes](https://www.fortunebusinessinsights.com/fr/industry-reports/virtual-reality-gaming-market-100271)
+* Janvier 2026 : [Les 10 Tendances Technologiques 2026 : Entre haptique et spatial](https://www.oci.fr/les-10-tendances-technologiques-2026/)
+* Septembre 2025 : [2026 sera l'année de la réalité augmentée (par l'IA)](https://fredcavazza.net/2025/09/23/2026-sera-lannee-de-la-realite-augmentee-par-lia/)
+* Janvier 2025 : [VR en 2025 : 8 prédictions pour l'année à venir](https://mixed-news.com/en/virtual-reality-2025-8-predictions/)
 
 #### 🏗️ Hardware & Écosystème
 

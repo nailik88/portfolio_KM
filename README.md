@@ -173,7 +173,7 @@
 * Février 2026 : [La réalité virtuelle et ses risques](https://pausetonecran.com/la-realite-virtuelle-et-ses-risques/)
 * Début 2026 : [Quels sont les risques liés à la confidentialité et à la sécurité des systèmes RV et RA ?](https://www.kaspersky.fr/resource-center/threats/security-and-privacy-risks-of-ar-and-vr)
 * Novembre 2025 : [We Are French Touch : quelles sont les tendances mondiales dans le secteur de la création ?](https://bigmedia.bpifrance.fr/nos-actualites/we-are-french-touch-quelles-sont-les-tendances-mondiales-dans-le-secteur-de-la-creation)
-* Mai 2025 : [Voyage VR : Les meilleures expériences de voyage en réalité virtuelle]([https://inventiv-it.fr/tendances-informatiques-2025/](https://www.realite-virtuelle.com/voyage-vr-meilleures-experiences-realite-virtuelle/#google_vignette))
+* Mai 2025 : [Voyage VR : Les meilleures expériences de voyage en réalité virtuelle]([https://inventiv-it.fr/tendances-informatiques-2025/](https://www.realite-virtuelle.com/voyage-vr-meilleures-experiences-realite-virtuelle/#google_vignette)
 * Mai 2025 : [Festival de Cannes 2025 : l’immersif, un médium et un genre cinématographique à part entière](https://bigmedia.bpifrance.fr/nos-actualites/festival-de-cannes-2025-limmersif-un-medium-et-un-genre-cinematographique-a-part-entiere)
 
 ---

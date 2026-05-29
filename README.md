@@ -163,7 +163,7 @@
 #### 💼 Usages Professionnels & Formation
 
 * Mai 2026 : [Réalité virtuelle en formation : un levier stratégique pour les professionnels en 2026](https://evaveo.com/blog/realite-virtuelle-formation-2026)
-* Février 2026 : [Serious Game : un marché en forte croissance au service de la formation et de la communication](https://www.macworld.com/article/3117710/apple-smart-glasses-release-date-specs-features-price.html)
+* Février 2026 : [Serious Game : un marché en forte croissance au service de la formation et de la communication](https://t-lipps.com/serious-game-un-marche-en-forte-croissance-au-service-de-la-formation-et-de-la-communication/)
 * Début 2026 : [Comment la Vr révolutionne le secteur médical?](https://immersive-display.com/fr/blog/comment-la-vr-revolutionne-le-secteur-medical-b38.html)
 * Juin 2025 : [Réalité augmentée et mixte en entreprise : Tendances et perspectives](https://bigmedia.bpifrance.fr/nos-dossiers/realite-augmentee-en-entreprise-tendances-et-perspectives)
 * Avril 2024 : [La réalité virtuelle et augmentée pour promouvoir le Made in France](https://bigmedia.bpifrance.fr/nos-actualites/la-realite-virtuelle-et-augmentee-pour-promouvoir-le-made-france)

@@ -168,13 +168,13 @@
 * Juin 2025 : [Réalité augmentée et mixte en entreprise : Tendances et perspectives](https://bigmedia.bpifrance.fr/nos-dossiers/realite-augmentee-en-entreprise-tendances-et-perspectives)
 * Avril 2024 : [La réalité virtuelle et augmentée pour promouvoir le Made in France](https://bigmedia.bpifrance.fr/nos-actualites/la-realite-virtuelle-et-augmentee-pour-promouvoir-le-made-france)
 
-#### 🏢 Enjeux Business & Data
+#### 🎨 Culture, Divertissement et Sécurité
 
-* Avril 2026 : [Marché de la XR 2026 : Analyse de croissance](https://www.futuremarketsinc.com/the-global-virtual-augmented-and-mixed-reality-market-2026-2036/)
-* Mars 2026 : [Impact VR sur la maintenance industrielle](https://www.fortunebusinessinsights.com/fr/industry-reports/virtual-reality-vr-in-manufacturing-industry-101714)
-* Novembre 2025 : [Data médicale en immersion : Tendances 2025](https://www.medicaldevice-network.com/features/virtual-reality-healthcare-trends-2025/)
-* Décembre 2025 : [Rapport Gartner : L'informatique spatiale (Top 10 Tech)](https://inventiv-it.fr/tendances-informatiques-2025/)
-* Décembre 2025 : [Microsoft : IA et futur du travail immersif](https://news.microsoft.com/source/emea/2025/12/ce-que-lia-nous-reserve-en-2026-7-tendances-a-suivre/?lang=fr)
+* Février 2026 : [La réalité virtuelle et ses risques](https://pausetonecran.com/la-realite-virtuelle-et-ses-risques/)
+* Début 2026 : [Quels sont les risques liés à la confidentialité et à la sécurité des systèmes RV et RA ?](https://www.kaspersky.fr/resource-center/threats/security-and-privacy-risks-of-ar-and-vr)
+* Novembre 2025 : [We Are French Touch : quelles sont les tendances mondiales dans le secteur de la création ?](https://bigmedia.bpifrance.fr/nos-actualites/we-are-french-touch-quelles-sont-les-tendances-mondiales-dans-le-secteur-de-la-creation)
+* Mai 2025 : [Voyage VR : Les meilleures expériences de voyage en réalité virtuelle]([https://inventiv-it.fr/tendances-informatiques-2025/](https://www.realite-virtuelle.com/voyage-vr-meilleures-experiences-realite-virtuelle/#google_vignette))
+* Mai 2025 : [Festival de Cannes 2025 : l’immersif, un médium et un genre cinématographique à part entière](https://bigmedia.bpifrance.fr/nos-actualites/festival-de-cannes-2025-limmersif-un-medium-et-un-genre-cinematographique-a-part-entiere)
 
 ---
 

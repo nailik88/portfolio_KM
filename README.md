@@ -160,13 +160,13 @@
 * Septembre 2025 : [2026 sera l'année de la réalité augmentée (par l'IA)](https://fredcavazza.net/2025/09/23/2026-sera-lannee-de-la-realite-augmentee-par-lia/)
 * Janvier 2025 : [VR en 2025 : 8 prédictions pour l'année à venir](https://mixed-news.com/en/virtual-reality-2025-8-predictions/)
 
-#### 🏗️ Hardware & Écosystème
+#### 💼 Usages Professionnels & Formation
 
-* Février 2026 : [Meta Quest 4 : Sortie accélérée en 2026](https://lnt.ma/meta-quest-4-rumors-point-to-accelerated-release-amid-apple-pressure/)
-* Octobre 2025 : [Apple Vision "Air" : La stratégie 2025](https://www.macworld.com/article/3117710/apple-smart-glasses-release-date-specs-features-price.html)
-* Janvier 2026 : [Roadmap Meta : L'avenir de l'informatique spatiale](https://www.uploadvr.com/meta-cto-seems-to-confirm-quest-4-still-on-roadmap/)
-* Mai 2025 : [Le virage de 2026 : Lunettes AR quotidiennes](https://blog.shayaikehassan.com/the-augmented-reality-and-virtual-reality-industry-an-in-depth-overview-in-2026)
-* Août 2025 : [Évolution des dalles micro-OLED 2026](https://pixeogroup.com/tendances-vr-2025/)
+* Mai 2026 : [Réalité virtuelle en formation : un levier stratégique pour les professionnels en 2026](https://evaveo.com/blog/realite-virtuelle-formation-2026)
+* Février 2026 : [Serious Game : un marché en forte croissance au service de la formation et de la communication](https://www.macworld.com/article/3117710/apple-smart-glasses-release-date-specs-features-price.html)
+* Début 2026 : [Comment la Vr révolutionne le secteur médical?](https://immersive-display.com/fr/blog/comment-la-vr-revolutionne-le-secteur-medical-b38.html)
+* Juin 2025 : [Réalité augmentée et mixte en entreprise : Tendances et perspectives](https://bigmedia.bpifrance.fr/nos-dossiers/realite-augmentee-en-entreprise-tendances-et-perspectives)
+* Avril 2024 : [La réalité virtuelle et augmentée pour promouvoir le Made in France](https://bigmedia.bpifrance.fr/nos-actualites/la-realite-virtuelle-et-augmentee-pour-promouvoir-le-made-france)
 
 #### 🏢 Enjeux Business & Data
 

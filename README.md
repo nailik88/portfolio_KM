@@ -155,6 +155,7 @@
 #### 🛠️ Tendances Technologiques & Matériel
 
 * Février 2026 : [Tendances AR/VR 2026 : Vers l'informatique spatiale hyperréaliste](https://innowise.com/fr/blog/ar-vr-trends/#:~:text=En%202026%2C%20l'informatique%20spatiale,r%C3%A9el%20et%20interagissent%20avec%20lui.)
+* * **Description :** Cet article montre comment l'informatique spatiale fusionne désormais les éléments numériques et le monde réel de façon transparente. Il met en avant l'avènement des écrans micro-OLED haute résolution et du suivi oculaire/gestuel ultra-précis qui effacent la frontière entre le physique et le virtuel.
 * Début 2026 : [Rapport mondial sur le matériel XR : La domination des casques autonomes](https://www.fortunebusinessinsights.com/fr/industry-reports/virtual-reality-gaming-market-100271)
 * Janvier 2026 : [Les 10 Tendances Technologiques 2026 : Entre haptique et spatial](https://www.oci.fr/les-10-tendances-technologiques-2026/)
 * Septembre 2025 : [2026 sera l'année de la réalité augmentée (par l'IA)](https://fredcavazza.net/2025/09/23/2026-sera-lannee-de-la-realite-augmentee-par-lia/)

@@ -157,9 +157,13 @@
 * Février 2026 : [Tendances AR/VR 2026 : Vers l'informatique spatiale hyperréaliste](https://innowise.com/fr/blog/ar-vr-trends/#:~:text=En%202026%2C%20l'informatique%20spatiale,r%C3%A9el%20et%20interagissent%20avec%20lui.)
 * * **Description :** Cet article montre comment l'informatique spatiale fusionne désormais les éléments numériques et le monde réel de façon transparente. Il met en avant l'avènement des écrans micro-OLED haute résolution et du suivi oculaire/gestuel ultra-précis qui effacent la frontière entre le physique et le virtuel.
 * Début 2026 : [Rapport mondial sur le matériel XR : La domination des casques autonomes](https://www.fortunebusinessinsights.com/fr/industry-reports/virtual-reality-gaming-market-100271)
+* **Description :** Analyse du marché axée sur l'explosion du segment des casques autonomes (sans fil). Bien que le gaming reste un moteur historique, le rapport décrypte la transition technologique vers des puces embarquées plus puissantes permettant la réalité mixte grand public.
 * Janvier 2026 : [Les 10 Tendances Technologiques 2026 : Entre haptique et spatial](https://www.oci.fr/les-10-tendances-technologiques-2026/)
+* * **Description :** Une vue d'ensemble des innovations de l'année. L'article place le *Spatial Computing* et les technologies haptiques (gants, vestes à retour de force) parmi les priorités d'investissement des directions informatiques, aux côtés de l'IA.
 * Septembre 2025 : [2026 sera l'année de la réalité augmentée (par l'IA)](https://fredcavazza.net/2025/09/23/2026-sera-lannee-de-la-realite-augmentee-par-lia/)
+* **Description :** Une réflexion prospective brillante. L'auteur explique que la maturité de la réalité augmentée ne dépend plus seulement de l'affichage (le matériel), mais de l'intégration des agents d'IA générative capables de comprendre et d'annoter notre environnement visuel en temps réel.
 * Janvier 2025 : [VR en 2025 : 8 prédictions pour l'année à venir](https://mixed-news.com/en/virtual-reality-2025-8-predictions/)
+* **Description :** Un bilan sur l'évolution du marché des casques (Meta Quest, Apple Vision Pro). L'article met en avant la démocratisation des caméras *passthrough* couleur haute définition et l'abandon progressif des contrôleurs physiques pour le suivi des mains.
 
 #### 💼 Usages Professionnels & Formation
 

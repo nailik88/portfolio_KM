@@ -152,34 +152,44 @@
 
 <br />
 
-#### 🛠️ Tendances Technologiques & Matériel
+## 🛠️ Tendances Technologiques & Matériel
 
-* Février 2026 : [Tendances AR/VR 2026 : Vers l'informatique spatiale hyperréaliste](https://innowise.com/fr/blog/ar-vr-trends/#:~:text=En%202026%2C%20l'informatique%20spatiale,r%C3%A9el%20et%20interagissent%20avec%20lui.)
-* * **Description :** Cet article montre comment l'informatique spatiale fusionne désormais les éléments numériques et le monde réel de façon transparente. Il met en avant l'avènement des écrans micro-OLED haute résolution et du suivi oculaire/gestuel ultra-précis qui effacent la frontière entre le physique et le virtuel.
-* Début 2026 : [Rapport mondial sur le matériel XR : La domination des casques autonomes](https://www.fortunebusinessinsights.com/fr/industry-reports/virtual-reality-gaming-market-100271)
-* **Description :** Analyse du marché axée sur l'explosion du segment des casques autonomes (sans fil). Bien que le gaming reste un moteur historique, le rapport décrypte la transition technologique vers des puces embarquées plus puissantes permettant la réalité mixte grand public.
-* Janvier 2026 : [Les 10 Tendances Technologiques 2026 : Entre haptique et spatial](https://www.oci.fr/les-10-tendances-technologiques-2026/)
-* * **Description :** Une vue d'ensemble des innovations de l'année. L'article place le *Spatial Computing* et les technologies haptiques (gants, vestes à retour de force) parmi les priorités d'investissement des directions informatiques, aux côtés de l'IA.
-* Septembre 2025 : [2026 sera l'année de la réalité augmentée (par l'IA)](https://fredcavazza.net/2025/09/23/2026-sera-lannee-de-la-realite-augmentee-par-lia/)
-* **Description :** Une réflexion prospective brillante. L'auteur explique que la maturité de la réalité augmentée ne dépend plus seulement de l'affichage (le matériel), mais de l'intégration des agents d'IA générative capables de comprendre et d'annoter notre environnement visuel en temps réel.
-* Janvier 2025 : [VR en 2025 : 8 prédictions pour l'année à venir](https://mixed-news.com/en/virtual-reality-2025-8-predictions/)
-* **Description :** Un bilan sur l'évolution du marché des casques (Meta Quest, Apple Vision Pro). L'article met en avant la démocratisation des caméras *passthrough* couleur haute définition et l'abandon progressif des contrôleurs physiques pour le suivi des mains.
+* **Février 2026 :** [Tendances AR/VR 2026 : Vers l'informatique spatiale hyperréaliste](https://innowise.com/fr/blog/ar-vr-trends/#:~:text=En%202026%2C%20l'informatique%20spatiale,r%C3%A9el%20et%20interagissent%20avec%20lui.)  
+  * **Description :** Cet article montre comment l'informatique spatiale fusionne désormais les éléments numériques et le monde réel de façon transparente. Il met en avant l'avènement des écrans micro-OLED haute résolution et du suivi oculaire/gestuel ultra-précis qui effacent la frontière entre le physique et le virtuel.
+* **Début 2026 :** [Rapport mondial sur le matériel XR : La domination des casques autonomes](https://www.fortunebusinessinsights.com/fr/industry-reports/virtual-reality-gaming-market-100271)  
+  * **Description :** Analyse du marché axée sur l'explosion du segment des casques autonomes (sans fil). Bien que le gaming reste un moteur historique, le rapport décrypte la transition technologique vers des puces embarquées plus puissantes permettant la réalité mixte grand public.
+* **Janvier 2026 :** [Les 10 Tendances Technologiques 2026 : Entre haptique et spatial](https://www.oci.fr/les-10-tendances-technologiques-2026/)  
+  * **Description :** Une vue d'ensemble des innovations de l'année. L'article place le *Spatial Computing* et les technologies haptiques (gants, vestes à retour de force) parmi les priorités d'investissement des directions informatiques, aux côtés de l'IA.
+* **Septembre 2025 :** [2026 sera l'année de la réalité augmentée (par l'IA)](https://fredcavazza.net/2025/09/23/2026-sera-lannee-de-la-realite-augmentee-par-lia/)  
+  * **Description :** Une réflexion prospective brillante. L'auteur explique que la maturité de la réalité augmentée ne dépend plus seulement de l'affichage (le matériel), mais de l'intégration des agents d'IA générative capables de comprendre et d'annoter notre environnement visuel en temps réel.
+* **Janvier 2025 :** [VR en 2025 : 8 prédictions pour l'année à venir](https://mixed-news.com/en/virtual-reality-2025-8-predictions/)  
+  * **Description :** Un bilan sur l'évolution du marché des casques (Meta Quest, Apple Vision Pro). L'article met en avant la démocratisation des caméras *passthrough* couleur haute définition et l'abandon progressif des contrôleurs physiques pour le suivi des mains.
 
-#### 💼 Usages Professionnels & Formation
+## 💼 Usages Professionnels & Formation
 
-* Mai 2026 : [Réalité virtuelle en formation : un levier stratégique pour les professionnels en 2026](https://evaveo.com/blog/realite-virtuelle-formation-2026)
-* Février 2026 : [Serious Game : un marché en forte croissance au service de la formation et de la communication](https://t-lipps.com/serious-game-un-marche-en-forte-croissance-au-service-de-la-formation-et-de-la-communication/)
-* Début 2026 : [Comment la Vr révolutionne le secteur médical?](https://immersive-display.com/fr/blog/comment-la-vr-revolutionne-le-secteur-medical-b38.html)
-* Juin 2025 : [Réalité augmentée et mixte en entreprise : Tendances et perspectives](https://bigmedia.bpifrance.fr/nos-dossiers/realite-augmentee-en-entreprise-tendances-et-perspectives)
-* Avril 2024 : [La réalité virtuelle et augmentée pour promouvoir le Made in France](https://bigmedia.bpifrance.fr/nos-actualites/la-realite-virtuelle-et-augmentee-pour-promouvoir-le-made-france)
+* **Mai 2026 :** [Réalité virtuelle en formation : un levier stratégique pour les professionnels en 2026](https://evaveo.com/blog/realite-virtuelle-formation-2026)  
+  * **Description :** Ce dossier analyse le retour sur investissement (ROI) de l'Immersive Learning. En 2026, la VR n'est plus un gadget : elle réduit drastiquement les coûts de formation logistique et améliore le taux de rétention mémorielle pour les gestes techniques et de sécurité.
+* **Février 2026 :** [Serious Game : un marché en forte croissance au service de la formation et de la communication](https://t-lipps.com/serious-game-un-marche-en-forte-croissance-au-service-de-la-formation-et-de-la-communication/)  
+  * **Description :** Un point sur la gamification en entreprise. L'article démontre comment les scénarios immersifs interactifs permettent de tester les *soft skills*, de simuler des situations de crise managériale ou de sensibiliser à la cybersécurité.
+* **Début 2026 :** [Comment la Vr révolutionne le secteur médical ?](https://immersive-display.com/fr/blog/comment-la-vr-revolutionne-le-secteur-medical-b38.html)  
+  * **Description :** Une cartographie des usages de la VR en santé : de la préparation d'opérations chirurgicales complexes sur jumeaux numériques à la thérapie cognitive contre les phobies, en passant par la gestion de la douleur en milieu hospitalier.
+* **Juin 2025 :** [Réalité augmentée et mixte en entreprise : Tendances et perspectives](https://bigmedia.bpifrance.fr/nos-dossiers/realite-augmentee-en-entreprise-tendances-et-perspectives)  
+  * **Description :** Un grand guide méthodologique destiné aux dirigeants. Il explique comment intégrer la XR dans l'industrie (maintenance assistée, prototypage collaboratif) et surmonter les freins organisationnels et techniques.
+* **Avril 2024 :** [La réalité virtuelle et augmentée pour promouvoir le Made in France](https://bigmedia.bpifrance.fr/nos-actualites/la-realite-virtuelle-et-augmentee-pour-promouvoir-le-made-france)  
+  * **Description :** Focus sur l'attractivité économique. L'article montre comment des entreprises françaises utilisent la VR pour faire visiter leurs usines à distance à des acheteurs internationaux, valorisant ainsi le patrimoine industriel français sans déplacement de personnes.
 
-#### 🎨 Culture, Divertissement et Sécurité
+## 🎨 Culture, Divertissement et Sécurité
 
-* Février 2026 : [La réalité virtuelle et ses risques](https://pausetonecran.com/la-realite-virtuelle-et-ses-risques/)
-* Début 2026 : [Quels sont les risques liés à la confidentialité et à la sécurité des systèmes RV et RA ?](https://www.kaspersky.fr/resource-center/threats/security-and-privacy-risks-of-ar-and-vr)
-* Novembre 2025 : [We Are French Touch : quelles sont les tendances mondiales dans le secteur de la création ?](https://bigmedia.bpifrance.fr/nos-actualites/we-are-french-touch-quelles-sont-les-tendances-mondiales-dans-le-secteur-de-la-creation)
-* Mai 2025 : [Voyage VR : Les meilleures expériences de voyage en réalité virtuelle]([https://inventiv-it.fr/tendances-informatiques-2025/](https://www.realite-virtuelle.com/voyage-vr-meilleures-experiences-realite-virtuelle/#google_vignette)
-* Mai 2025 : [Festival de Cannes 2025 : l’immersif, un médium et un genre cinématographique à part entière](https://bigmedia.bpifrance.fr/nos-actualites/festival-de-cannes-2025-limmersif-un-medium-et-un-genre-cinematographique-a-part-entiere)
+* **Février 2026 :** [La réalité virtuelle et ses risques](https://pausetonecran.com/la-realite-virtuelle-et-ses-risques/)  
+  * **Description :** Une analyse axée sur la santé publique et l'ergonomie. L'article aborde la fatigue visuelle, le phénomène de cybercinétose (le mal des transports virtuel) et la nécessité de fixer des limites de temps d'usage chez les adolescents.
+* **Début 2026 :** [Quels sont les risques liés à la confidentialité et à la sécurité des systèmes RV et RA ?](https://www.kaspersky.fr/resource-center/threats/security-and-privacy-risks-of-ar-and-vr)  
+  * **Description :** Une alerte essentielle sur la cybersécurité. Les experts de Kaspersky détaillent la sensibilité des données capturées par les casques (mouvements des yeux, cartographie des domiciles) et les risques de piratage ou d'usurpation d'identité via les avatars.
+* **Novembre 2025 :** [We Are French Touch : quelles sont les tendances mondiales dans le secteur de la création ?](https://bigmedia.bpifrance.fr/nos-actualites/we-are-french-touch-quelles-sont-les-tendances-mondiales-dans-le-secteur-de-la-creation)  
+  * **Description :** Un bilan du grand rassemblement des industries culturelles. Il met en lumière la place de leader de la France dans la création de contenus XR narratifs, d'expositions immersives et de musées virtuels exportés à l'international.
+* **Mai 2025 :** [Voyage VR : Les meilleures expériences de voyage en réalité virtuelle](https://www.realite-virtuelle.com/voyage-vr-meilleures-experiences-realite-virtuelle/#google_vignette)  
+  * **Description :** Un panorama des applications de tourisme virtuel. L'article explore comment la VR permet de visiter des sites archéologiques inaccessibles ou préservés, offrant une alternative de divertissement éco-responsable.
+* **Mai 2025 :** [Festival de Cannes 2025 : l’immersif, un médium et un genre cinématographique à part entière](https://bigmedia.bpifrance.fr/nos-actualites/festival-de-cannes-2025-limmersif-un-medium-et-un-genre-cinematographique-a-part-entiere)  
+  * **Description :** Reportage sur la consécration de la VR dans le cinéma. Le Festival de Cannes confirme la création d'une section compétitive dédiée, prouvant que les technologies immersives sont devenues un art narratif majeur et reconnu mondialement.
 
 ---
 
